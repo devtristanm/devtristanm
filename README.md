@@ -1,4 +1,4 @@
-# Hi there, I'm Tristan Martinez 👋
+# Hi there, I'm Tristan Martinez 🥸
 
 ## Full-Stack Developer | JavaScript, Node.js, Vue, C#, .NET, SQL | Web Development & Software Solutions
 
@@ -15,7 +15,7 @@ I’m excited to contribute to **innovative projects** and collaborate with tale
 - **Languages**: JavaScript, C#, SQL  
 - **Frameworks/Libraries**: Vue.js, Node.js, .NET  
 - **Tools & Technologies**: HTML, CSS, SCSS, Git, SQL  
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL
 
 ## 💼 Experience
 
