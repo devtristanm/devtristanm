@@ -32,10 +32,10 @@ A hybrid, full-time program where I gained hands-on experience with **full-stack
 
 📫 **Let’s connect!**  
 - [LinkedIn](https://www.linkedin.com/in/tristan-martinez-29a1a7346/)
-- [GitHub](https://github.com/Tristan-Martinez)
+- [GitHub](https://github.com/devtristanm)
 
 ---
 
 ## 🚀 Fun Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristan-Martinez&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devtristanm&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
